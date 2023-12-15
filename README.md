@@ -7,8 +7,11 @@ En dicho análisis estudiamos la variación de las ganancias de la empresa y las
 **GANANCIAS:**
 
 En la primera hoja realizamos un análisis general de ventas históricas a lo largo de los años, comparándolo con las ventas del año anterior para poder tener un panorama de la evolución de la empresa en este período de tiempo.
+
 Se eligió como objetivo de análisis la **Ganancia bruta anual** comparándola con la misma medida del año anterior. Podemos observar que **solo en los años 2015 y 2020 se logra el objetivo propuesto**, que es de un **15% de aumento** respecto a la ganancia del año anterior. En los restantes años no se cumple la meta propuesta.
+
 Otra medida evaluada es el **gasto promedio que realizó cada cliente** (Ticket Promedio) en cada uno de los años, siendo su **valor máximo $8690 en el año 2020** y su valor mínimo en el 2019 con $6410.
+
 También notamos un incremento a lo largo de los años en las **ventas** realizadas a través de los **canales Telefónicos y OnLine**, teniendo su **pico máximo en el 2020**. Estimamos que esto se debe al inicio de la pandemia.
 
 **PRODUCTOS:**
