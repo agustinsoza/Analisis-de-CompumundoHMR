@@ -1,2 +1,4 @@
-# Analisis-de-CompumundoHMR
-Análisis de datos de Compumundo HMR, empreza ficticia creada para el proyecto integrador de Certificado de Data Analytics de Digit@lers, en el cual se demuestran las habilidades aprendidas.
+# Análisis de datos de Compumundo HMR
+
+Este proyecto se centra en un análisis historico de Compumundo HMR, una empresa ficticia creada para el proyecto integrador final del certificado de Data Analytics de Digit@lers.
+
