@@ -1,4 +1,5 @@
 # Análisis de datos de Compumundo HMR del 2015 al 2020
+=
 
 Este proyecto se centra en Compumundo HMR, una empresa ficticia creada para el proyecto integrador final del certificado de Data Analytics de Digit@lers.
 
