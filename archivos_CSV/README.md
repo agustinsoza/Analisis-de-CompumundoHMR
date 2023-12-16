@@ -1,7 +1,7 @@
 # Archivos CSV
 
-Dentro de esta carpeta se encontrara "TABLAS", otra carpeta con todos los archivos formato CSV que contienen los datos utilizados para el análisis.  
-En TABLAS se encontratan:
+Dentro de esta carpeta se encontrara "TABLAS_INT", otra carpeta con todos los archivos formato CSV que contienen los datos utilizados para el análisis.  
+En TABLAS_INT se encontratan:
 
 * aux_canal
 * aux_clientes
