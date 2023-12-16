@@ -1,5 +1,7 @@
 # Análisis de datos de Compumundo HMR del 2015 al 2020
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Este proyecto se centra en Compumundo HMR, una empresa ficticia creada para el proyecto integrador final del certificado de Data Analytics de Digit@lers.
 
 En dicho análisis estudiamos la variación de las ganancias de la empresa y las ventas de cada producto a lo largo del tiempo, como tambien el desempeño de los vendedores dentro de las sucursales en la Provincia de Buenos Aires. Se realiza un análisis de los resultados obtenidos en comparación con los objetivos propuestos, filtrando estos datos en el período de tiempo que va desde el año 2015 hasta el año 2020.
@@ -28,4 +30,6 @@ Otro dato que podemos encontrar es el **tiempo de demora** en días que tarda la
 
 También podemos visualizar una **distribución de las distintas sucursales** dentro de la provincia de **Buenos Aires** a través de un mapa interactivo, pudiendo hacerse filtro de que empleados trabajan en cada una de ellas.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dentro del **Dashboard** realizado con **Power BI** se puede observar en más detalle los puntos del análisis explicados anteriormente, como también otros aspectos que se tuvieron en cuenta en el mismo.
