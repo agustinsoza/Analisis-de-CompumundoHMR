@@ -27,3 +27,5 @@ En esta última hoja se hizo foco en las **ventas por sucursales**, analizando e
 Otro dato que podemos encontrar es el **tiempo de demora** en días que tarda la empresa en **entregar sus ventas**, quedando en evidencia de que **no se cumple el objetivo**, siendo este una demora de **4 días** cuando **la empresa demora un promedio de 5**.
 
 También podemos visualizar una **distribución de las distintas sucursales** dentro de la provincia de **Buenos Aires** a través de un mapa interactivo, pudiendo hacerse filtro de que empleados trabajan en cada una de ellas.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
